@@ -1,0 +1,12 @@
+firstname, lastname, email
+John, Zimmerman, john.zimm@gmail.com
+John, Zimmerman, JOHN.ZIMM@gmail.com
+Neil, Anuskiewicz, neil@marmot-tech.com
+Neil, Anuskiewicz, neil@MARMOT-tech.com
+Some, Body, somebody@somewhere.com
+Some, One, someone@somewhere.com
+No, Body, nobody@nowhere.com
+No, One, noone@nowhere.com
+Test, User1, testuser1@test.com
+Test, User2, testuser2@test.com
+Test, User3, testuser3@test.com
