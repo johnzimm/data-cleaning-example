@@ -1,12 +1,8 @@
-firstname, lastname, email
-John, Zimmerman, john.zimm@gmail.com
-John, Zimmerman, JOHN.ZIMM@gmail.com
-Neil, Anuskiewicz, neil@marmot-tech.com
-Neil, Anuskiewicz, neil@MARMOT-tech.com
-Some, Body, somebody@somewhere.com
-Some, One, someone@somewhere.com
-No, Body, nobody@nowhere.com
-No, One, noone@nowhere.com
-Test, User1, testuser1@test.com
-Test, User2, testuser2@test.com
-Test, User3, testuser3@test.com
+multiple_license_ind,lastname_primary,firstname_secondary,name_suffix,lic_number,lic_type,lic_status,lic_effective_date,lic_expiration_date,rel_lic_number,empl_lastname_primary,empl_firstname_secondary,empl_name_suffix,officerlastname,officerfirstname,officersuffixname,rel_lic_type,address_1,address_2,city,state,zip_code,foreign_nation,foreign_postal_info,county_code,county_name,restricted_flag,misc_indicator,ethics_and_agency_ind,email_address
+whatever,Lastname,Firstname,whatever,whatever,whatever,whatever,whatever,whatever
+whatever,Billy,Bob,whatever,whatever,whatever,whatever,whatever,whatever
+whatever,William,Bob,whatever,whatever,whatever,whatever,whatever,whatever
+whatever,Timmy,Thomas,whatever,whatever,whatever,whatever,whatever,whatever
+whatever,Timothy,Thomas,whatever,whatever,whatever,whatever,whatever,whatever
+whatever,Longmire,Walt,whatever,whatever,whatever,whatever,whatever,whatever
+whatever,Longmire,Walter,whatever,whatever,whatever,whatever,whatever,whatever
